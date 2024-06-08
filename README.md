@@ -1,4 +1,5 @@
 Business and Debt Management
+
 This Python code allows the user to enter information about companies, including the company name and corresponding debt. After entering the data, the program calculates and displays some relevant statistics, such as the total number of companies in the industrial district, the arithmetic average of debts and companies that do not have debts with the city hall.
 
 How to use:
